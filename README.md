@@ -19,6 +19,7 @@ Add your favorite movie in this section:
 * Frozen
 * Rogue One
 * Avengers: Infinity War
+- Black Panther
 * Thor: Ragnorak
 - Back To the Future II
 + Pulp Fiction
