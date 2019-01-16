@@ -1,3 +1,4 @@
+
 # Hello CSC 341 students
 
 Here's an example of an unordered list
@@ -18,3 +19,6 @@ Add your favorite movie in this section:
 * Frozen
 * Rogue One
 * Avengers: Infinity War
+* Thor: Ragnorak
+- Back To the Future II
++ Pulp Fiction
