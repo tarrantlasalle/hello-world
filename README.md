@@ -18,3 +18,4 @@ Add your favorite movie in this section:
 * Frozen
 * Rogue One
 * Avengers: Infinity War
+* Thor of Ragnorok
